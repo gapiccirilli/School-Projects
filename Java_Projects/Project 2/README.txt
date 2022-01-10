@@ -1,0 +1,1 @@
+Reads all data off of Prop.txt and writes it to a new file - prop2.txt 
