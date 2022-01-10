@@ -1,0 +1,4 @@
+E455, 11, 16, 4, Canoe, 456
+R345, 13, 8, 8, Other, 528
+W223, 9, 20, 2, Pontoon Boat, 380
+P555, 15, 0, 1, Personal WaterCraft, 600
